@@ -1,0 +1,10 @@
+*.tiff
+*.png
+*.json
+*.pyc
+/__pycache__
+/.vscode
+/北京边界图
+/checkpoints
+/WDCD
+/paper
